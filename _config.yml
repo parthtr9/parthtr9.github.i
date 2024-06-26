@@ -21,7 +21,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "IMG_7134_result.png"
   name             : "parthtr9"
   pronouns         : # example: "she/her"  
   bio              : "Tech Enthusiast."
